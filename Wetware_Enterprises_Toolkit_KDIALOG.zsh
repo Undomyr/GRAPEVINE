@@ -1,7 +1,7 @@
-#!/bin/bash
+#!/bin/zsh
 ### Script containing several tools for use by registered and confirmed Wetware
 # Enterprise Employees, primarily for the game Hackmud.
-# Platform : Linux (Bash)
+# Platform : Linux (ZSH-shell code)
 # Maintainer : Undomyr
 #------------------------------------------------------------------------------#
 #/\/\/\/\/\/\/\/\/\\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#

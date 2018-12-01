@@ -1,13 +1,17 @@
 #!/bin/zsh
 ### Script containing several tools for use by registered and confirmed Wetware
 # Enterprise Employees, primarily for the game Hackmud.
-# Platform : Linux (ZSH-shell code)
-# Maintainer : Undomyr
+# OS : Linux GNU
+# Distribution : Arch Linux 
+# Env : KDE Plasma 5
+# Language : ZSH Shell Script
+# Maintainer : Undomyr (zubriket@gmail.com)
 #------------------------------------------------------------------------------#
 #/\/\/\/\/\/\/\/\/\\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
 #------------------------------------------------------------------------------#
 # The WETK will consist of several functions, each with their own purpose and
-# effect, accessed via a menu-based interface made with the KDialog for KDE Plasma 5
+# effect, accessed via a menu-based interface made with the KDialog for 
+# KDE Plasma 5
 #------------------------------------------------------------------------------#
 #/\/\/\/\/\/\/\/\/\\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
 #------------------------------------------------------------------------------#
